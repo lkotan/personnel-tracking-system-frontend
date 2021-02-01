@@ -1,0 +1,44 @@
+{
+  "name": "pts-frontend",
+  "version": "1.0.0",
+  "description": "PTS",
+  "author": "lkotan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --max-old-space-size=4096",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "@microsoft/signalr": "^5.0.2",
+    "@nuxtjs/auth-next": "5.0.0-1611574754.9020f2a",
+    "@nuxtjs/toast": "^3.3.1",
+    "apexcharts": "^3.24.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "dragula": "^3.7.3",
+    "moment": "^2.29.1",
+    "nuxt": "^2.0.0",
+    "prismjs": "^1.23.0",
+    "ti-icons": "^0.1.2",
+    "v-mask": "^2.2.4",
+    "vue": "^2.6.12",
+    "vue-apexcharts": "^1.6.0",
+    "vue-confirm-dialog": "^1.0.2",
+    "vue-prism-editor": "^1.2.2",
+    "vue2-editor": "^2.10.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3",
+    "compass-mixins": "^0.12.10",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1",
+    "sass": "^1.32.5",
+    "sass-loader": "^10.1.1"
+  }
+}
