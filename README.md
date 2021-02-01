@@ -2,6 +2,10 @@
 
 > PTS
 
+Npm install yaptıktan sonra nodu_modules klasörüne aşağıdaki linkten indirebileceğiniz compass-mixins dosyasını yüklemeniz gerekmektedir.
+
+Link = > https://dosya.co/bhntqidqrknh/compass-mixins.rar.html
+
 ## Build Setup
 
 ```bash
